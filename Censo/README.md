@@ -15,7 +15,6 @@ Con este programa se facilita el registro de datos en un censo familiar, obtenie
 - Tipo de documento de identidad
 - Número de documento de identidad
 - Fecha de nacimiento
-- Parentesco con el jefe de hogar
 - Departamento
 - Ciudad
 - Dirección de residencia
