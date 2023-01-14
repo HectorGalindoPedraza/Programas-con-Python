@@ -1,2 +1,2 @@
-## Practice Programs (jeje)
+## Repo de mis practicas con Python
 ---
